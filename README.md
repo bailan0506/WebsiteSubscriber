@@ -5,3 +5,4 @@ It has several features:<br>
 * The news is classified by different kinds of contents.
 * The user can collect the news and save them in local fold.
 * The user can write comment when they save the news.
+The project has been done for a relatively long time. It is developed by VC6.0 and might be uncompatible with VS. Please open the .dsw in VS 6.0, compile and use.
